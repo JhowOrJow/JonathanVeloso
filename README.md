@@ -6,6 +6,7 @@
 </div><br>
   
   ## Tecnologias que estou aprendendo e/ou ja fiz alguma aplicação
+  
   <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhowOrJow&layout=compact&langs_count=7&theme=dracula"/>
   </div><br>
